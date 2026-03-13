@@ -34,6 +34,7 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+<img width="889" height="172" alt="image" src="https://github.com/user-attachments/assets/9c0614a9-bbc4-4ded-9c38-52b1fad89b7b" />
 
 
 
